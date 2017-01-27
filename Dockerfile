@@ -1,4 +1,4 @@
 
 
 
-https://github.com/privacyidea/privacyidea/archive/v2.16.tar.gz
+https://github.com/privacyidea/privacyidea/archive/v2.17.tar.gz
